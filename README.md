@@ -3,3 +3,4 @@
 ###### Design
 *italicfontstyle*
 **boldfontstyle**
+*italic*
